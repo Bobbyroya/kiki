@@ -19,6 +19,7 @@ We don't plan to release everything at once, we plan to release all of the follo
 * Calling p2p with server.
 * Group chat functionality. (only with server)
 * Group chat p2p.
+
 Of course, common bug fixes will be issued if something's wrong.
 
 ## Price
