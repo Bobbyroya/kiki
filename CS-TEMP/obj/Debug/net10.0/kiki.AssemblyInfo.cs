@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kiki")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c87374e79f4aa79ea3436c5bd5ce43db145c0b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05eeeeb104bf089b67835a26750111abf8f5c8c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("kiki")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kiki")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
