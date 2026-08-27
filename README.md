@@ -13,6 +13,14 @@ All of your messages and calls will transfer *lightning fast, whether your devic
 
 <i><small>*Speed is dependant on the internet connection of the client and/or server.</small></i><br>
 
+## Roadmap
+We don't plan to release everything at once, we plan to release all of the following features so we can focus on one thing at a time:
+* Text p2p with server.
+* Calling p2p with server.
+* Group chat functionality. (only with server)
+* Group chat p2p.
+Of course, common bug fixes will be issued if something's wrong.
+
 ## Price
 Everything is meant to run for free. Forever. No strings attached. <br>
 
