@@ -3,7 +3,7 @@
 <img src="https://file.garden/amEVBMtnsiWQVg7N/KiKiLogo_v1.webp" alt="KiKiLogo v1; A drawing of a sleeping cat, just the outline, in a baige like color. With light coffee color text that reads &quot;KiKi&quot; to the right of the cat." width="300"> <br> <br>
 
 # <b>A better messaging platform for anyone, anywhere.</b>
-Kiki is a private, self-hosted, centralized, and decentralized messaging platform inspired by [Signal](https://signal.org). Kiki has all of the benefits of Signal with simple self-hosting and a small profile.<br>
+Kiki is a private, self-hosted, centralized, and decentralized messaging platform inspired by [Signal](https://signal.org). Kiki has all of the benefits of Signal with simple self-hosting and a small profile that can run on practically any device.<br>
 
 ## Privacy
 We can't see anything you do, and no one can back up anything you don't want backed up. Everything is private all the way through, so everything you do can't be accessed by anyone you don't want to.<br>
