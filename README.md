@@ -17,5 +17,5 @@ All of your messages and calls will transfer *lightning fast, whether your devic
 Everything is meant to run for free. Forever. No strings attached. <br>
 
 ## Credits
-KiKi is created by Bobby R. and Vivian M. <br> Published under [Hernix Hex](https://www.hernix.hex/).
+KiKi is created by Bobby R. and Vivian M. <br> Published under [Hernix Hex](https://www.hernix.net/).
 </div>
