@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/the storage device/kiki/CS-TEMP/kiki.csproj",
+      "projectUniqueName": "/Volumes/the storage device/coding/kiki/CS-TEMP/kiki.csproj",
       "projectName": "kiki",
-      "projectPath": "/Volumes/the storage device/kiki/CS-TEMP/kiki.csproj",
+      "projectPath": "/Volumes/the storage device/coding/kiki/CS-TEMP/kiki.csproj",
       "packagesPath": "/Users/bonks/.nuget/packages/",
-      "outputPath": "/Volumes/the storage device/kiki/CS-TEMP/obj/",
+      "outputPath": "/Volumes/the storage device/coding/kiki/CS-TEMP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bonks/.nuget/NuGet/NuGet.Config"
