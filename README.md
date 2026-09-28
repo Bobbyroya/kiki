@@ -25,10 +25,10 @@ Everything is meant to run for free. Forever. No strings attached.<br>
 We will provide an optional server program for people who wish to run centralized, please remember that with servers only the data running through the server will be saved.
 
 ## P2P (Decentralized)
-The default program will have P2P built in, this will be for device to device, it is the best option for Direct Messages but may be slower for group messages, which is where servers are recommended.
+The default program will have P2P built in, this will be for device to device, it is the best option for Direct Messages but may be slower for group messages, which is where servers are recommended. 
 
 ## Default Program
-The default program which is where you will message for the regular user, will store both Centralized AND Decentralized data, so even if the server's data gets lost you will still be able to see it.
+The default program which is where you will message for the regular user, caution as the program will only store Decentralized data, the data for servers will be stored in the server's database. So make sure to back up your server data!
 
 ## Backups
 Backups will be made using SQLite database frameworks, stored in simple .db files that you can export from your device and/or servers. 
