@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ri8IM4gC9WA=",
+  "success": true,
+  "projectFilePath": "/workspaces/kiki/Kiki/Kiki.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.12/microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
