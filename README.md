@@ -17,7 +17,7 @@ We can't see anything you do. It is completely private and encrypted. Though ear
 Everything is meant to run for free. Forever. No strings attached.<br>
 
 ## Encryption
-*Everything is encrypted using object hashing, so even in the backups the server owner, or you create, they cannot access the data inside, they can only verify it.
+*Everything is encrypted, though as of right now we do not know which encryption we will be using. Though passwords will be stored using object-hashing.
 
 <i><small>*Everything may not be correct in early versions, as we stated in the Privacy section, some parts may not be encrypted in early versions so we can ensure the default functionality works.</small></i><br>
 
